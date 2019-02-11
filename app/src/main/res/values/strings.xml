@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo intens</string>
+    <string name="text_btn_details">Show Details</string>
+    <string name="text_tv_naam">Lorem Ipsum</string>
+    <string name="text_btn_homepage">Homepage</string>
+    <string name="text_btn_call">CALL</string>
+</resources>
